@@ -38,9 +38,13 @@
 
 ### 📌 Featured projects
 
-> 🚧 Currently migrating my personal projects here — check back soon.
-
-<!-- PROYECTOS_AQUI: tabla de proyectos pilares (Aizyla, etc.) se agrega al documentarlos -->
+| Project | What it is | Stack | Links |
+|---------|-----------|-------|-------|
+| **[TriageAI](https://github.com/jorge22tc/triage-ai)** | Intelligent ticket triage: LLM classification with a deterministic fallback — production AI without a single point of failure | FastAPI · SQLAlchemy · Docker · CI | [Source](https://github.com/jorge22tc/triage-ai) |
+| **AIZyla** | AI news/guides/tools platform + Q&A community, powered by my own autopublish engine. Recovered from a Google Helpful Content demotion with data-driven E-E-A-T | Python · Flask · Node · Gemini · GSC API | [Live](https://aizyla.com) |
+| **Nadiweb** | Ecosystem of free online tools with AI features | Astro · React · FastAPI | [Live](https://nadiweb.tech) |
+| **TD Solutions** | My digital agency for Panamanian SMBs — includes BookingYouNow, a reservations platform | Node · PostgreSQL · n8n · Docker | [Live](https://tdsolutionspa.com) |
+| **The Paws Advisors** | Amazon Associates niche site with a verified-data content pipeline | Python · SEO | [Live](https://thepawsadvisors.com) |
 
 ### 📊 GitHub stats
 
