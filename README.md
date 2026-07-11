@@ -1,0 +1,49 @@
+<h1 align="center">Hi, I'm Jorge Martes 👋</h1>
+<h3 align="center">Software Engineer — AI & Automation · Full-Stack Development</h3>
+
+<p align="center">
+  Building intelligent automation for enterprise systems at <b>Liberty Networks</b> 🇵🇦<br/>
+  AI-driven workflows · Enterprise data (Oracle & SQL Server) · Cybersecurity in progress
+</p>
+
+<p align="center">
+  <a href="mailto:jorge22tc@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/LINKEDIN_USER/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+### 🚀 About me
+
+- 🤖 **AI Software Developer** at Liberty Networks — I architect billing & workflow automations that cut manual intervention by **60%+**
+- 🗄️ Daily driver of **cross-server SQL** against Oracle and SQL Server at enterprise scale
+- 🔐 Pursuing a **Cybersecurity Engineering degree** (Universidad del Istmo)
+- 🎓 Software Engineering @ Ontario Tech University, Canada 🇨🇦 · Python/SQL/Cloud @ IMMUNE Institute, Madrid 🇪🇸
+- 🌎 Bilingual: English & Spanish · Based in Panama City
+
+### 🛠️ Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+### 📌 Featured projects
+
+> 🚧 Currently migrating my personal projects here — check back soon.
+
+<!-- PROYECTOS_AQUI: tabla de proyectos pilares (Aizyla, etc.) se agrega al documentarlos -->
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jorge22tc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge22tc&layout=compact&theme=tokyonight"/>
+</p>
