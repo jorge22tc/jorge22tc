@@ -46,9 +46,12 @@
 | **TD Solutions** | My digital agency for Panamanian SMBs — includes BookingYouNow, a reservations platform | Node · PostgreSQL · n8n · Docker | [Live](https://tdsolutionspa.com) |
 | **The Paws Advisors** | Amazon Associates niche site with a verified-data content pipeline | Python · SEO | [Live](https://thepawsadvisors.com) |
 
+<!-- STATS DESACTIVADAS 2026-07-12: github-readme-stats.vercel.app da 503 (rate limit del instance publico). Reactivar quitando este comentario o self-host en Vercel propio: github.com/anuraghazra/github-readme-stats
 ### 📊 GitHub stats
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jorge22tc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge22tc&layout=compact&theme=tokyonight"/>
 </p>
+
+-->
